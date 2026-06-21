@@ -162,7 +162,7 @@ ecommerce-databricks-pipeline/
 
 ## 👩‍💻 Author
 
-**Pendam Shruthi**
-- 📧 sruthipendam99@gmail.com
+**Pendam Sruthi**
+- 📧 pendam.sruthii@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/shruthi-pendam-a4236b1b0)
 - 🐙 [GitHub](https://github.com/PendamShruthii)
